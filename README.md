@@ -16,6 +16,7 @@
   
 8)Chip group chips yapısını kullanmaya calistim fakat başarılı olamadım.ViewPager yapısına entegre ederek gruplar oluşturucaktım fakat ViewPager içerisinde chip group Xml tarafında sağlıklı çalışmadı
 
+9)Motion Layout kullandım.Detay sayfasında geçişler için motion layout var.
  
 ![WhatsApp Image 2023-02-21 at 15 45 31](https://user-images.githubusercontent.com/98031686/220600975-35c00f26-7cda-4439-be65-1e44a35bdb9b.jpeg)
 ![WhatsApp Image 2023-02-21 at 14 12 30 (4)](https://user-images.githubusercontent.com/98031686/220600988-3784c333-0638-42c7-9bdb-94fd781bf246.jpeg)
