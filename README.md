@@ -1,12 +1,19 @@
 # WallpaperAppMVVMPexel
 1)Wallpaper uygulamasını MVVM mimarisi hilt kullanarak geliştirdim.
+
 2)Download Manager ve Wallpaper Manager kullandım.
+
 3)Coroutine kullanarak IO işlemleri yaptım.
+
 4)LoadingDialog sınıfı yazdım fakat senkronize bir şekilde çalıştıramadığım için iptal ettim
+
 5)Pexel sitesini kullandım API için.
-6)Gece modunda renkleri değiştirdim.
+
+6)Gece modunda renkleri değiştirdim
+
 7)OnStart methodunu Search sınıfında aktif ettim.Böylelikle kullanıcı arama yapıp resim detayına gidip geri tıklayınca arama yaptığı veri ile devam edecek.Yani o sınıfta 
-  otomatik dog quersi çalışıyor.Eğer query boş değilse kullanıcının yazdığını alıyorum.Boşsa dog set etmesini sağlıyorum.
+  otomatik dog quersi çalışıyor.Eğer query boş değilse kullanıcının yazdığını alıyorum.Boşsa dog set etmesini sağlıyorum
+  
 8)Chip group chips yapısını kullanmaya calistim fakat başarılı olamadım.ViewPager yapısına entegre ederek gruplar oluşturucaktım fakat ViewPager içerisinde chip group Xml tarafında sağlıklı çalışmadı
 
  
